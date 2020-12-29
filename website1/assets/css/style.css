@@ -1,3 +1,11 @@
 body{
-    background: #BDBDBD;
+    background: rgb(15, 2, 2);
+}
+
+.navbar{
+    background: rgb(57, 58, 56);
+}
+
+#img-tagline{
+    z-index: -1;
 }
