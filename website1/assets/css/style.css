@@ -1,24 +1,32 @@
-body{
-    background: white;
+body {
+  background: white;
 }
 
+#copyright {
+  text-align: center;
+}
+
+#cabeza1 {
+  margin-top: 200px;
+}
 
 .titulo-h1 {
-    color: #757575;
+  color: #757575;
 }
 
 .titulo-h1 strong {
-    color: black;
+  color: black;
 }
 
-.navbar{
-    background: rgb(57, 58, 56);
+.navbar {
+  background: rgb(57, 58, 56);
 }
 
-.img-tagline{
-    position: absolute;
-    width: 69.4em;
-    z-index: -1;
+.img-tagline {
+  width: 1110px;
+  height: 400px;
+  z-index: -1;
+  position: absolute;
 }
 
 #submitFooter {
