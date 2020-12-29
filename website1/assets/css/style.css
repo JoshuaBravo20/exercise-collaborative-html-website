@@ -1,3 +1,36 @@
-body{
-    background: #BDBDBD;
+body {
+  background: white;
+}
+
+#submitFooter {
+  margin-left: 707px;
+}
+
+form {
+  width: 90%;
+  margin-left: 70px;
+  padding: 90px 80px 100px 100px;
+}
+
+input,
+textarea {
+  margin-left: 40px;
+}
+
+#formBox {
+  display: flex;
+  padding: 30px;
+  width: 100%;
+}
+
+#email {
+  position: absolute;
+  margin-left: 100px;
+  margin-top: 100px;
+}
+
+#msg {
+  position: absolute;
+  margin-left: 90px;
+  margin-top: 165px;
 }
