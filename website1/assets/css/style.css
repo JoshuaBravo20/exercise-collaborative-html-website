@@ -1,3 +1,13 @@
+.navbar{
+    background: rgb(57, 58, 56);
+}
+
+.img-tagline{
+    position: absolute;
+    width: 69.4em;
+    z-index: -1;
+}
+
 body {
   background: white;
 }
