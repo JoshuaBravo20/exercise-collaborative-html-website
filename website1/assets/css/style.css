@@ -1,10 +1,55 @@
 body{
     background: white;
 }
+
+
 .titulo-h1 {
     color: #757575;
 }
 
 .titulo-h1 strong {
     color: black;
+}
+
+.navbar{
+    background: rgb(57, 58, 56);
+}
+
+.img-tagline{
+    position: absolute;
+    width: 69.4em;
+    z-index: -1;
+}
+
+#submitFooter {
+  margin-left: 707px;
+}
+
+form {
+  width: 90%;
+  margin-left: 70px;
+  padding: 90px 80px 100px 100px;
+}
+
+input,
+textarea {
+  margin-left: 40px;
+}
+
+#formBox {
+  display: flex;
+  padding: 30px;
+  width: 100%;
+}
+
+#email {
+  position: absolute;
+  margin-left: 100px;
+  margin-top: 100px;
+}
+
+#msg {
+  position: absolute;
+  margin-left: 90px;
+  margin-top: 165px;
 }
