@@ -6,6 +6,9 @@ body{
     background: rgb(57, 58, 56);
 }
 
-#img-tagline{
+.img-tagline{
+    position: absolute;
+    width: 69.4em;
     z-index: -1;
 }
+
